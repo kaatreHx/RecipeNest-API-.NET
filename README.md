@@ -36,5 +36,5 @@ RecipeNest API is a RESTful web service built using ASP.NET Core Web API. It ser
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/RecipeNest.git](https://github.com/kaatreHx/RecipeNest-API-.NET.git)
+git clone https://github.com/kaatreHx/RecipeNest-API-.NET.git
 cd RecipeNest
